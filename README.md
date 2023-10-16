@@ -94,6 +94,10 @@ ____
 
 ##### W6 Lec PART 2
 
+##### ASCII Table
+
+____
+
 ##### ChatGPT3_5
 
 In Java, you can utilize the Character class to work with characters and perform the mentioned operations. Here's a brief guide on using Character for the specified tasks:
@@ -137,7 +141,16 @@ char randomUppercase = (char) ('A' + (int) (Math.random() * 26));
 These functions allow you to manipulate and determine properties of characters in Java. Let me know if you need further clarification or additional code examples!
 ```
 
+____
 
+##### Storing Data (Fixed)
+
+____
+
+##### Storing Data (Dynamic)
+
+
+____
 
 
 
