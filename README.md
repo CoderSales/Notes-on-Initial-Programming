@@ -11,3 +11,5 @@ Notes-on-Initial-Programming
 
 
 ## Refrerences
+
+[geeksforgeeks printf](https://www.geeksforgeeks.org/formatted-output-in-java/)
