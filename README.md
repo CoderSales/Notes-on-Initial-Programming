@@ -56,9 +56,23 @@ f specifies that the value being inserted should be formatted as a floating-poin
 So, in summary, %9.7f is a formatting specifier for a floating-point number with a minimum width of 9 characters and 7 decimal places of precision.
 
 
+```java
+public class PrintPi {
+    public static void main(String[] args) {
+        double piValue = Math.PI;
+        System.out.printf("Value of PI to 7 dec is %9.7f\n", piValue);
+    }
+}
 
+```
 
+```java
+System.out.printf("Value of PI to 4 dec is %9.4f\n", Math.PI);
+```
 
+```java
+System.out.printf("Value of PI to 2 dec is %-9.2f\n", Math.PI);
+```
 
 ## Refrerences
 
