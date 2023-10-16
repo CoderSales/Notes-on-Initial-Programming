@@ -3,6 +3,22 @@
 ## Description
 Notes-on-Initial-Programming
 
+## Table of Contents of Brightspace Module
+
+[Lecture 1](https://learn.ul.ie/d2l/le/lessons/10840/topics/458147)
+
+[Lecture 2 (not found)](https://learn.ul.ie/d2l/le/lessons/10840/topics/458507)
+
+[Lecture 3](https://learn.ul.ie/d2l/le/lessons/10840/topics/463731)
+
+[Lecture 4](https://learn.ul.ie/d2l/le/lessons/10840/topics/480279)
+
+____
+
+[Lab Week 5](https://learn.ul.ie/d2l/le/lessons/10840/topics/500828)
+
+no later content than this on 2023-10-16-at-1529h
+
 ## Content
 
 ### Week-6
