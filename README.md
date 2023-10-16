@@ -106,36 +106,36 @@ char ch = '7';
 boolean isDigit = Character.isDigit(ch);
 Checking if a Character is a Letter:
 
-java
-Copy code
+```java
+
 char ch = 'A';
 boolean isLetter = Character.isLetter(ch);
 Checking if a Character is Uppercase:
+```
 
-java
-Copy code
+```java
 char ch = 'C';
 boolean isUppercase = Character.isUpperCase(ch);
 Checking if a Character is Lowercase:
+```
 
-java
-Copy code
+```java
 char ch = 'd';
 boolean isLowercase = Character.isLowerCase(ch);
 Converting a Character to Lowercase or Uppercase:
+```
 
-java
-Copy code
+```java
 char ch = 'A';
 char lowercaseCh = Character.toLowerCase(ch);
 char uppercaseCh = Character.toUpperCase(ch);
 Generating a Random Uppercase Letter:
+```
 
-java
-Copy code
+```java
 char randomUppercase = (char) ('A' + (int) (Math.random() * 26));
 These functions allow you to manipulate and determine properties of characters in Java. Let me know if you need further clarification or additional code examples!
-
+```
 
 
 
