@@ -81,3 +81,5 @@ System.out.printf("Value of PI to 2 dec is %-9.2f\n", Math.PI);
 [geeksforgeeks Printf](https://www.geeksforgeeks.org/formatted-output-in-java/)
 
 [digital ocean Printf](https://www.digitalocean.com/community/tutorials/java-printf-method)
+
+[ASCII Table](https://www.asciitable.com/)
