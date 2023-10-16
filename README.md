@@ -12,4 +12,8 @@ Notes-on-Initial-Programming
 
 ## Refrerences
 
-[geeksforgeeks printf](https://www.geeksforgeeks.org/formatted-output-in-java/)
+### Printf
+
+[geeksforgeeks Printf](https://www.geeksforgeeks.org/formatted-output-in-java/)
+
+[digital ocean Printf](https://www.digitalocean.com/community/tutorials/java-printf-method)
